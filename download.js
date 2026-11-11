@@ -2,13 +2,13 @@
 /* Download page: the license, an "I agree" checkbox and links to the GitHub Release. No sign-up, no tokens, nothing recorded. */
 
 const RELEASE = {
-  version: "4.0.7",
-  page: "https://github.com/Drakesbanereal1/networking-lab-workbench/releases/tag/v4.0.7",
-  base: "https://github.com/Drakesbanereal1/networking-lab-workbench/releases/download/v4.0.7/",
+  version: "4.0.8",
+  page: "https://github.com/Drakesbanereal1/networking-lab-workbench/releases/tag/v4.0.8",
+  base: "https://github.com/Drakesbanereal1/networking-lab-workbench/releases/download/v4.0.8/",
   files: [
-    { name: "Enterprise-Networking-Lab-Workbench-4.0.7-windows-setup.exe", label: "Windows 10 or 11 (64-bit) setup", bytes: 62158336, sha256: "d4b67ddf8ee90bea5dd93c166ebe86f51ceed25eae858e340efd9e03905c48d6" },
-    { name: "enterprise-networking-lab-workbench-4.0.7-linux-x86_64.tar.gz", label: "Linux, 64-bit Intel or AMD (terminal version)", bytes: 1020442, sha256: "4e7680bae78fa6fc93aca6037bdb6f7b02fb0e39b69a1bc68c50805f3ea1d0ed" },
-    { name: "enterprise-networking-lab-workbench-4.0.7-linux-arm64.tar.gz", label: "Linux, 64-bit ARM (terminal version)", bytes: 961022, sha256: "aa4b27e757a74f4730fa5bf9e5b9b9780dc1629c9bfafa835a56dcf12c294e27" },
+    { name: "Enterprise-Networking-Lab-Workbench-4.0.8-windows-setup.exe", label: "Windows 10 or 11 (64-bit) setup", bytes: 62232064, sha256: "3adaf11a4d741a88e45208d725f1fa009e6bcf8e7571684407d45a2a443737e2" },
+    { name: "enterprise-networking-lab-workbench-4.0.8-linux-x86_64.tar.gz", label: "Linux, 64-bit Intel or AMD (terminal version)", bytes: 1089793, sha256: "5a076670884f90fa89f5ba7ad54d390f0e8c3bda506d047f4db8bac04a0c4a62" },
+    { name: "enterprise-networking-lab-workbench-4.0.8-linux-arm64.tar.gz", label: "Linux, 64-bit ARM (terminal version)", bytes: 1030832, sha256: "6ae1358856066e4b5d2e8f5c350c61cc89169aaf1b634022b2f4cab0c40db4db" },
   ],
 };
 

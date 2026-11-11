@@ -1,8 +1,8 @@
 :root {
   color-scheme: light;
-  --bg: #f4f2ec;
-  --panel: #ffffff;
-  --ink: #1c2024;
+  --bg: #f1efe8;
+  --panel: #fbfaf7;
+  --ink: #22272c;
   --muted: #565e69;
   --line: #d6d2c6;
   --accent: #0b5cad;
@@ -19,35 +19,35 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     color-scheme: dark;
-    --bg: #14171b;
-    --panel: #1d2228;
-    --ink: #e9e7e1;
+    --bg: #1f2329;
+    --panel: #272c33;
+    --ink: #e2e0da;
     --muted: #a3acb7;
-    --line: #363e48;
+    --line: #3a424c;
     --accent: #79b8f5;
     --accent-ink: #10151b;
     --host: #f2a671;
     --unknown: #98a1ab;
     --good: #6fd19b;
     --bad: #ff9a8f;
-    --code: #262c34;
+    --code: #2c323a;
   }
 }
 
 :root[data-theme="dark"] {
   color-scheme: dark;
-  --bg: #14171b;
-  --panel: #1d2228;
-  --ink: #e9e7e1;
+  --bg: #1f2329;
+  --panel: #272c33;
+  --ink: #e2e0da;
   --muted: #a3acb7;
-  --line: #363e48;
+  --line: #3a424c;
   --accent: #79b8f5;
   --accent-ink: #10151b;
   --host: #f2a671;
   --unknown: #98a1ab;
   --good: #6fd19b;
   --bad: #ff9a8f;
-  --code: #262c34;
+  --code: #2c323a;
 }
 
 * { box-sizing: border-box; }
@@ -303,3 +303,7 @@ table.files th, table.files td { text-align: left; padding: 4px 6px; border-bott
 .agree label { display: inline; font-size: 1rem; }
 .agree { display: flex; align-items: center; gap: 4px; }
 table.files td.hash { font-family: ui-monospace, Consolas, monospace; word-break: break-all; }
+/* Theme picker in the header */
+.theme-picker { white-space: nowrap; margin-left: 6px; font-size: 0.875rem; }
+.theme-picker label { display: inline; font-weight: 600; }
+.theme-picker select { width: auto; padding: 2px 6px; font: inherit; background: var(--panel); color: var(--ink); border: 1px solid var(--line); border-radius: 4px; }
