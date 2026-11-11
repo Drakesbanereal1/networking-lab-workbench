@@ -1,0 +1,99 @@
+Enterprise Networking Lab Workbench Personal Learning License
+Version 1.0
+
+Copyright (c) 2026 Steven Tirpak. All rights reserved except as granted below.
+
+"The Software" means the Enterprise Networking Lab Workbench desktop app, its
+terminal versions for CMD, PowerShell and Linux, its website, and the lessons,
+questions, cases, labs and other practice material that come with them.
+
+1. What you may do
+
+   Free of charge, you may download, install and use the Software for your own
+   learning, including:
+
+   a. personal study, such as CCNA and networking practice;
+   b. interview preparation;
+   c. lab practice with the simulator, cases and foundation labs;
+   d. personal study at work, during breaks or work time, when your employer's
+      policy allows it;
+   e. live diagnostics (ping, DNS lookups, port checks and similar tests) on
+      computers and networks that you own or that you have permission to test.
+
+2. What you may not do
+
+   a. Commercial use. You may not sell the Software, charge for access to it,
+      include it in a product or service you sell, or use it to provide paid
+      services to others.
+   b. Paid training. You may not use the Software or its practice material in
+      a course, class, bootcamp, tutoring session or training program that
+      charges a fee or is part of a paid program.
+   c. Production IT tool. The Software is a study aid, not a production
+      management tool. You may not deploy it as part of your organization's
+      IT tooling, use it as the system of record for production work, use it
+      to make or push changes to production systems, or rely on its output as
+      the only basis for a decision about a production system.
+
+      Exception: you may run the Software's read-only live diagnostics (such
+      as ping, DNS lookups, route and address checks, and port checks) on
+      your employer's systems when your employer has authorized you to do so,
+      as long as you confirm the results with your employer's own tools and
+      procedures before you act on them. This exception does not allow
+      configuration changes, deployment to other users, or use as part of a
+      paid service.
+   d. Unpermitted testing. You may not run live diagnostics against computers
+      or networks that you do not own and do not have permission to test.
+   e. Redistribution. You may not copy, share, host, mirror, sell or
+      sublicense the Software or its practice material, in original or changed
+      form. To share it, share the link to the official download page.
+   f. Removing notices. You may not remove or change the copyright, credit or
+      license notices.
+
+3. Practice material and device output
+
+   All lessons, questions, cases and labs are original practice material.
+   Device output in the Software is simulated or authored for practice and was
+   not captured from real equipment. The simulator teaches a workflow and a
+   subset of commands; it is not Cisco IOS. Cisco, Cisco IOS and CCNA are
+   trademarks of Cisco Systems, Inc. The Software is not affiliated with,
+   sponsored by or endorsed by Cisco.
+
+4. Your data
+
+   The desktop and terminal versions keep your practice record on your own
+   computer. The website keeps it in your browser. The Software does not send
+   your practice record anywhere. Live diagnostics contact only the targets
+   you enter.
+
+5. Third-party components
+
+   The Windows download includes a Java runtime and JavaFX, which are licensed
+   by their own authors under their own terms. Those terms are included in the
+   download and apply to those components. Nothing in this license limits your
+   rights under them.
+
+6. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE AND NON-INFRINGEMENT. It is a study aid. It does not guarantee exam
+   results, job outcomes or the accuracy of any diagnosis.
+
+7. Limitation of liability
+
+   TO THE EXTENT THE LAW ALLOWS, STEVEN TIRPAK IS NOT LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE, INCLUDING
+   ANY CHANGE YOU MAKE TO A REAL DEVICE OR NETWORK.
+
+8. Ending this license
+
+   This license ends automatically if you break its terms. When it ends, you
+   must stop using the Software and delete your copies. Sections 3, 6 and 7
+   continue after it ends.
+
+9. Other permission
+
+   For any use this license does not allow, such as classroom use or
+   commercial use, ask the copyright holder for written permission.
+
+Enterprise Networking Lab Workbench · Created and maintained by Steven Tirpak · © 2026 Steven Tirpak

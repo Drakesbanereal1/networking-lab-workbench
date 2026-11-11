@@ -1,0 +1,11 @@
+{
+  "name": "Enterprise Networking Lab Workbench",
+  "short_name": "Lab Workbench",
+  "description": "Study, interview practice, device labs, evidence cases and troubleshooting for first-year network technicians.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f2ec",
+  "theme_color": "#0b5cad",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
