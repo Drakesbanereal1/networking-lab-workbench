@@ -1,7 +1,7 @@
 "use strict";
 /* Navigation, the Progress page, the version on screen, and start-up. */
 
-const WEB_BUILD = "4.0.6-web.6";
+const WEB_BUILD = "4.0.7-web.2";
 
 /* ---------- Progress ---------- */
 function levelFor(objectiveId, attempts, owners) {
